@@ -49,6 +49,18 @@ StudentManagementSystem
    frontend/
       src/ (React components)
 
+
+## 📦 API Endpoints
+
+| Method | Endpoint                      | Description                            | Access       |
+|--------|-------------------------------|----------------------------------------|--------------|
+| GET    | `/api/student/task/`          | Get all student task records           | Public/Admin |
+| POST   | `/api/student/task/add`       | Create a new student task              | Public/Admin |
+| PUT    | `/api/student/task/{id}`      | Update an existing student task by ID | Public/Admin |
+| DELETE | `/api/student/task/{id}`      | Delete a student task by ID           | Public/Admin |
+
+
+
 Snapshots
 
 <img width="867" height="553" alt="image" src="https://github.com/user-attachments/assets/eb6866ab-6a89-46c6-b0ce-70eb32a60cdf" />
