@@ -48,3 +48,8 @@ StudentManagementSystem
 
    frontend/
       src/ (React components)
+
+Snapshots
+
+<img width="867" height="553" alt="image" src="https://github.com/user-attachments/assets/eb6866ab-6a89-46c6-b0ce-70eb32a60cdf" />
+
