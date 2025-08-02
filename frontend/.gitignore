@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# build
+/build
+
+# production
+.env
+
+# misc
+.DS_Store
+*.log
+
+# testing
+/coverage
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# System files
+Thumbs.db
