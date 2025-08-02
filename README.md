@@ -50,7 +50,7 @@ StudentManagementSystem
       src/ (React components)
 
 
-## 📦 API Endpoints
+API Endpoints
 
 | Method | Endpoint                      | Description                            | Access       |
 |--------|-------------------------------|----------------------------------------|--------------|
